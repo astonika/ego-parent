@@ -1,0 +1,9 @@
+/.idea/
+/ego-parent.iml
+/ego-service-impl/ego-service-impl.iml
+/ego-service/ego-service.iml
+/ego-passport/ego-passport.iml
+/ego-pojo/ego-pojo.iml
+/ego-manage/ego-manage.iml
+/ego-commons/ego-commons.iml
+/ego-redis/ego-redis.iml
